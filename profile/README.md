@@ -18,6 +18,7 @@ We design the board, write its firmware, and build the software it talks to.
 
 ## Notes
 
+- [A software update should not be able to stop the fridge](https://newlinebreak.com/notes/update-that-stopped-the-fridge/)
 - [Cyber Resilience Act: what your devices should be able to tell you](https://newlinebreak.com/notes/cyber-resilience-act-24-hours/)
 
 ## Why this page is quiet
