@@ -18,6 +18,7 @@ We design the board, write its firmware, and build the software it talks to.
 
 ## Notes
 
+- [Your device is not a browser](https://newlinebreak.com/notes/your-device-is-not-a-browser/)
 - [A software update should not be able to stop the fridge](https://newlinebreak.com/notes/update-that-stopped-the-fridge/)
 - [Cyber Resilience Act: what your devices should be able to tell you](https://newlinebreak.com/notes/cyber-resilience-act-24-hours/)
 
